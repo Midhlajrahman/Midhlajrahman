@@ -1,11 +1,15 @@
-Hi there 👋, my name is Midhlaj
-#### Design And Development
-![Design And Development](https://media.licdn.com/dms/image/D5616AQHbbhxHkd50Dg/profile-displaybackgroundimage-shrink_350_1400/0/1684510666493?e=1690416000&v=beta&t=3p-oSC9Fi4jnRiT1VYJ-ADuqH8L8ASUOBsxW-v9_-qw)
+### Hi there 👋, my name is Midhlaj
+#### Designer And Developer
+![Designer And Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm midhlaj from india,and I do content on Design and Development. I really enjoy learning languages and frameworks like python and javascript, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills:  / HTML / CSS / BOOTSRAP / JS / PYTHON
+Skills:  / HTML / CSS / BOOTSTRAP / JS / PYTHON
 
 - 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/midhlajrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/midhlaj-rahman-b20b34272//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/midhu_x3_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://midhlajrahman.github.io/photofolio/)  
+
 
 
