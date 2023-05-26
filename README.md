@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midlaj123&label=Profile%20views&color=0e75b6&style=flat" alt="midlaj123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/midhlaj_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad midlaj?logo=twitter&style=for-the-badge" alt="muhammad midlaj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/midhlaj_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/Midhlaj rahman ?logo=twitter&style=for-the-badge" alt="Midhlaj rahman" /></a> </p>
 
 - 👯 I’m looking to collaborate on *Web development projects*
 
 - 💬 Ask me about *html,css,bootstrap*
 
-- 📫 How to reach me *midumidlaj9061@gamil.com*
+- 📫 How to reach me *midhlajrahman26@gmail.com*
 
 - ⚡ Fun fact *I think i am Funny*
 
