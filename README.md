@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhammad midlaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad midlaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-midlaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-midlaj" height="30" width="40" /></a>
-<a href="https://instagram.com/innocent._._heart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_midlaj_1" height="30" width="40" /></a>
+<a href="https://twitter.com/midhlaj_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midhlaj rahman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/midhlaj-rahman-b20b34272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhlaj rahman" height="30" width="40" /></a>
+<a href="https://instagram.com/midhu_x3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhlaj rahman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
