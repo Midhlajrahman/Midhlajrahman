@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on *Web development projects*
 
-- 💬 Ask me about *html,css,bootstrap*
+- 💬 Ask me about *html,css,bootstrap, JavaScript,Python*
 
 - 📫 How to reach me *midhlajrahman26@gmail.com*
 
