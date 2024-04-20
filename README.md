@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm MIDHLAJ RAHMAN </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python Fullstack developer from India</h3>
 
 
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on *Web development projects*
 
-- 💬 Ask me about *HTML, CSS, Bootstrap, JavaScript, and Python*
+- 💬 Ask me about *HTML, CSS, Bootstrap, JavaScript, and Python/Django*
 
 - 📫 How to reach me *midhlajrahman26@gmail.com*
 
