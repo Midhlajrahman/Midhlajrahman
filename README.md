@@ -4,7 +4,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/midhlaj_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/Midhlaj rahman ?logo=twitter&style=for-the-badge" alt="Midhlaj rahman" /></a> </p>
-<p>I'm Shabeeb Python Django web developer, specializing in building dynamic and scalable web applications using the Django framework. With i am expertise in Python programming language and Django's Model-View-Template architecture, i can create robust and user-friendly web solutions. my skills include developing web sites and deploying applications on cloud platforms. i am experience working with databases such as postgresql, and integrating various libraries and frameworks to enhance web development. I am stays up-to-date with the latest web development trends and tools to provide cutting-edge solutions.
+<p>I'm Midhlaj Rahman Python Django web developer, specializing in building dynamic and scalable web applications using the Django framework. With i am expertise in Python programming language and Django's Model-View-Template architecture, i can create robust and user-friendly web solutions. my skills include developing web sites and deploying applications on cloud platforms. i am experience working with databases such as postgresql, and integrating various libraries and frameworks to enhance web development. I am stays up-to-date with the latest web development trends and tools to provide cutting-edge solutions.
 </p>
 
 <h3 align="left">Connect with me:</h3>
